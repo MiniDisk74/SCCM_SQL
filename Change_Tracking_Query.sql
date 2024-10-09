@@ -1,0 +1,1 @@
+SELECT * FROM dbo.MSChange_tracking_history ORDER BY start_time DESC;
